@@ -1,4 +1,4 @@
-package TestingLambda;
+package com.lj.testingLambda;
 
 @FunctionalInterface
 interface MathInterface {
